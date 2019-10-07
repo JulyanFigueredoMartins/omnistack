@@ -1,2 +1,2 @@
 # omnistack
-Used to store projects related to omnistack
+Projeto desenvolvido na semana omnistack 9 da rocketseat. 
